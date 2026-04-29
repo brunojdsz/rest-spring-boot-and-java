@@ -3,7 +3,7 @@ server:
 cors:
   originPatterns: http://localhost:3000,http://localhost:8080,https://brunojdsz.com.br
 file:
-  upload-dir: /Code/UploadDir
+  upload-dir: /home/ruuner/work/rest-spring-boot-and-java/UploadDir
 security:
   jwt:
     token:
